@@ -1,0 +1,3 @@
+/home/kiwi/CLionProjects/CalcDistance/cmake-build-debug/CMakeFiles/CalcDistance.dir
+/home/kiwi/CLionProjects/CalcDistance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kiwi/CLionProjects/CalcDistance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
