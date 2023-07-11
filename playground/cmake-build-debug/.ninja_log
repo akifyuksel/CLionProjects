@@ -1,7 +1,0 @@
-# ninja log v5
-0	439	1686226388702437374	CMakeFiles/playground.dir/main.cpp.o	2a5847a2796a1ed2
-1	31	1686226421519746871	CMakeFiles/playground.dir/AString.cpp.o	c621392d57e502dc
-1	413	1686226436854891496	CMakeFiles/playground.dir/main.cpp.o	2a5847a2796a1ed2
-413	505	1686226436945892355	playground	d02eda9968f734b4
-0	439	1686226777759113830	CMakeFiles/playground.dir/main.cpp.o	2a5847a2796a1ed2
-439	540	1686226777858114769	playground	d02eda9968f734b4
